@@ -59,9 +59,9 @@
 
 ## VAJIRA MD ERROR SUPPORT BOT
 
-<a href="https://goto.now/3NtN2"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="VAJIRA MD ERROR SUPPORT" width="150"></a>
+<a href="https://goto.now/3NtN2"><img src="" alt="VAJIRA MD ERROR SUPPORT" width="150"></a>
 </br>
-<img src="" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
 
 
